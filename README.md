@@ -7,12 +7,12 @@
 ---
 
 ## 🔥 GitHub Stats & Contributions  
-![Akila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akila-Nilusha&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akila-Nilusha&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akila-Nilusha&theme=radical)  
+![Akila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akilanilusha&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akilanilusha&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akilanilusha&theme=radical)  
 
-### **📈 Contribution Graph**
-![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akila-Nilusha&theme=radical)  
+## 📊 Contribution Graph  
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=akilanilusha&theme=github)  
 
 ---
 
