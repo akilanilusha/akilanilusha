@@ -12,7 +12,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akilanilusha&theme=radical)  
 
 ## 📊 Contribution Graph  
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=akilanilusha&theme=github)  
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=akilanilusha&theme=github)
 
 ---
 
