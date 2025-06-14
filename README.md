@@ -1,4 +1,6 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Akila Nilusha!
+<div align="center">
+  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Akila Nilusha!</h1>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6B6B&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Undergraduate+CS+Student;Web+%26+Software+Developer;DevOps+Enthusiast;Always+learning+new+technologies!" alt="Typing SVG" />
@@ -61,7 +63,8 @@
 <img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,tailwind" />
 
 ### **Backend Development**
-<img src="https://skillicons.dev/icons?i=php,nodejs,python,laravel,codeigniter" />
+<img src="https://skillicons.dev/icons?i=php,nodejs,python,laravel,spring" />
+<img src="https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
 
 ### **Mobile Development**
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
@@ -70,7 +73,7 @@
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase" />
 
 ### **DevOps & Cloud**
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,nginx" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws" />
 
 ### **Development Tools**
 <img src="https://skillicons.dev/icons?i=vscode,postman,figma,photoshop" />
