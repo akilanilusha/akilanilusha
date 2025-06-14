@@ -29,7 +29,6 @@
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development, DevOps, or anything tech!**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/akila-nilusha/)**
-- ⚡ Fun fact: **I debug with console.log() and I'm proud of it! 😄**
 
 ---
 
