@@ -1,49 +1,142 @@
-# 👋 Hello, I'm Akila Nilusha! 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Akila Nilusha!
 
-🚀 **Undergraduate CS Student @ University of Ruhuna**  
-💻 **Web & Software Developer | DevOps Enthusiast**  
-⚡ **Passionate about new technologies & challenges**  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6B6B&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Undergraduate+CS+Student;Web+%26+Software+Developer;DevOps+Enthusiast;Always+learning+new+technologies!" alt="Typing SVG" />
+</div>
 
----
-
-## 🔥 GitHub Stats & Contributions  
-![Akila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akilanilusha&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akilanilusha&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akilanilusha&theme=radical)  
-
-## 📊 Contribution Graph  
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=akilanilusha&theme=github)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=akilanilusha&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/akilanilusha?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/akilanilusha?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
+</div>
 
 ---
 
-## 🚀 Skills & Technologies  
-### **Frontend & Backend Development**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)  
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-### **Database & DevOps**
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
----
+🎓 **Computer Science Student** @ University of Ruhuna  
+💻 **Full Stack Developer** with passion for clean code  
+🚀 **DevOps Enthusiast** exploring cloud technologies  
+⚡ **Tech Explorer** always learning something new  
+🌟 **Problem Solver** who loves taking on challenges  
 
-## 🔥 Visitor Counter  
-![Visitor Count](https://komarev.com/ghpvc/?username=akilanilusha&color=red)  
+- 🔭 I'm currently working on **Full Stack Web Applications**
+- 🌱 I'm currently learning **Cloud Technologies & Advanced DevOps**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Web Development, DevOps, or anything tech!**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/akila-nilusha/)**
+- ⚡ Fun fact: **I debug with console.log() and I'm proud of it! 😄**
 
 ---
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akila-nilusha/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Akila-Nilusha)  
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats & Activity
+
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=akilanilusha&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Akila's GitHub Stats"/>
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=akilanilusha&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilanilusha&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=F8D866" alt="Top Languages"/>
+  <img width="440" src="https://github-readme-activity-graph.vercel.app/graph?username=akilanilusha&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
 
 ---
 
-🚀 **Thanks for visiting my profile!** 💖  
+## 🐍 Watch my Contribution Snake eat my commits!
+
+<div align="center">
+  <img src="https://github.com/akilanilusha/akilanilusha/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Technologies & Tools
+
+<div align="center">
+
+### **Frontend Development**
+<img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,tailwind" />
+
+### **Backend Development**
+<img src="https://skillicons.dev/icons?i=php,nodejs,python,laravel,codeigniter" />
+
+### **Mobile Development**
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+### **Database & Tools**
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase" />
+
+### **DevOps & Cloud**
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,nginx" />
+
+### **Development Tools**
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,photoshop" />
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akila-nilusha/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akila-Nilusha)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_handle)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_handle)
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/msKNSs8rmJ5m/giphy.gif" width="30"> Latest Blog Posts & Projects
+
+<!-- BLOG-POST-LIST:START -->
+- 🚀 Building Scalable Web Applications with Laravel
+- 💡 DevOps Best Practices for Small Teams  
+- 🔧 Automating Deployment with Docker & GitHub Actions
+- 📱 Cross-Platform Mobile Development with Flutter
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akilanilusha&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📈 Coding Activity
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   8 hrs 45 mins   ████████████▓░░░░░░░░░░░░   50.23 %
+PHP          4 hrs 12 mins   ██████░░░░░░░░░░░░░░░░░░░   24.15 %
+Python       2 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
+CSS          1 hr 45 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+HTML         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+```
+<!--END_SECTION:waka-->
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<div align="center">
+  <h2>🚀 Thanks for visiting my profile! 💖</h2>
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
