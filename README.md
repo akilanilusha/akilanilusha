@@ -94,17 +94,6 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/msKNSs8rmJ5m/giphy.gif" width="30"> Latest Blog Posts & Projects
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 Building Scalable Web Applications with Laravel
-- 💡 DevOps Best Practices for Small Teams  
-- 🔧 Automating Deployment with Docker & GitHub Actions
-- 📱 Cross-Platform Mobile Development with Flutter
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -113,19 +102,6 @@
 
 ---
 
-## 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   8 hrs 45 mins   ████████████▓░░░░░░░░░░░░   50.23 %
-PHP          4 hrs 12 mins   ██████░░░░░░░░░░░░░░░░░░░   24.15 %
-Python       2 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
-CSS          1 hr 45 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
-HTML         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-```
-<!--END_SECTION:waka-->
-
----
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
