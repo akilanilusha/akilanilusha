@@ -63,7 +63,6 @@
 
 ### **Backend Development**
 <img src="https://skillicons.dev/icons?i=php,nodejs,python,laravel,spring" />
-<img src="https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
 
 ### **Mobile Development**
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
