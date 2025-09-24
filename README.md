@@ -19,7 +19,7 @@ I'm a passionate **full-stack developer** and **DevOps enthusiast** with a knack
 - **GitHub:** [@Akila-Nilusha](https://github.com/Akila-Nilusha)
 - **Email:** akilanilusha89@gmail.com
 - **Instagram:** [@your_handle](https://instagram.com/your_handle)
-- **Twitter:** [@your_handle](https://twitter.com/your_handle)
+- **Twitter:** [@your_handle](https://twitter.com/
 
 ---
 
