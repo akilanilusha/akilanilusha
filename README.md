@@ -15,12 +15,8 @@ I'm a passionate **full-stack developer** and **DevOps enthusiast** with a knack
 
 ## 📫 Reach Me
 
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/akila-nilusha/)
-- **GitHub:** [@Akila-Nilusha](https://github.com/Akila-Nilusha)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/akilanilushaofficial/)
 - **Email:** akilanilusha89@gmail.com
-- **Instagram:** [@your_handle](https://instagram.com/your_handle)
-
-
 ---
 
 ## 🌱 Studying
