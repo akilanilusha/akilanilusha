@@ -18,35 +18,24 @@ I enjoy exploring modern technologies and taking on new challenges that push my 
 
 ### ⚡ Skills Overview
 
-#### 🖥️ Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,tailwind" />
-</p>
+#### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24"/> Frontend
+React • Next.js • HTML • CSS • Bootstrap • Tailwind  
 
-#### 📱 Mobile
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
+#### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="24"/> Mobile  
+Flutter • Dart  
 
-#### ⚙️ Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,spring,python" />
-</p>
+#### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24"/> Backend  
+Node.js • Laravel • Spring Boot • Python  
 
-#### 🗄️ Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
-</p>
+#### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24"/> Database  
+MySQL • PostgreSQL • MongoDB • Firebase  
 
-#### ☁️ DevOps & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,github,linux,aws" />
-</p>
+#### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24"/> DevOps & Cloud  
+Docker • GitHub • Linux • AWS  
 
-#### 🧰 Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,photoshop" />
-</p>
+#### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="24"/> Tools  
+VS Code • Postman • Figma • Photoshop  
+
 
 
 ---
