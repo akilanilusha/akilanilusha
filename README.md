@@ -1,7 +1,7 @@
 <!-- 🌟 Akila Nilusha | GitHub Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&color=00F7FF&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Akila+Nilusha!+👋;Full+Stack+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Akila+Nilusha!+👋;Full+Stack+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast" alt="Typing Animation" />
 </h1>
 
 <h3 align="center">💻 A passionate Full Stack Developer from Sri Lanka 🇱🇰</h3>
