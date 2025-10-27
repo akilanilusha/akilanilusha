@@ -18,23 +18,36 @@ I enjoy exploring modern technologies and taking on new challenges that push my 
 
 ### ⚡ Skills Overview
 
-#### 🖥️ Frontend  
-React • Next.js • HTML • CSS • Bootstrap • Tailwind  
+#### 🖥️ Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,tailwind" />
+</p>
 
-#### 📱 Mobile  
-Flutter • Dart  
+#### 📱 Mobile
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
 
-#### ⚙️ Backend  
-Node.js • Laravel • Spring Boot • Python  
+#### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,spring,python" />
+</p>
 
-#### 🗄️ Database  
-MySQL • PostgreSQL • MongoDB • Firebase  
+#### 🗄️ Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
+</p>
 
-#### ☁️ DevOps & Cloud  
-Docker • GitHub • Linux • AWS  
+#### ☁️ DevOps & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,github,linux,aws" />
+</p>
 
-#### 🧰 Tools  
-VS Code • Postman • Figma • Photoshop  
+#### 🧰 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,photoshop" />
+</p>
+
 
 ---
 
