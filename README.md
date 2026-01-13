@@ -64,18 +64,6 @@ Let’s build something amazing together! 🌟
 
 ---
 
-### 📊 GitHub Stats & Activity  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=akilanilusha&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=akilanilusha&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilanilusha&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%" />
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akilanilusha&label=Profile%20Views&color=00F7FF&style=flat-square" alt="Profile views" />
